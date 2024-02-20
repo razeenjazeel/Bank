@@ -1,0 +1,11 @@
+.container{
+    background-color:white;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.navbar + .container {
+    margin-top: 60px;
+  }
+
+  
